@@ -1,0 +1,63 @@
+﻿[
+  {
+    "numer": 133,
+    "status": "Свободна",
+    "age": 23,
+    "height": 172,
+    "weight": 65,
+    "nationality": "русская",
+    "educarion": " высшее",
+    "profession": "менеджер",
+    "bloodType": "III(B)",
+    "experience": "рожала"
+  },
+  {
+    "numer": 123,
+    "status": "Свободна",
+    "age": 23,
+    "height": 122,
+    "weight": 45,
+    "nationality": "русская",
+    "educarion": " высшее",
+    "profession": "менеджер",
+    "bloodType": "III(B)",
+    "experience": "не рожала"
+  },
+  {
+    "numer": 124,
+    "status": "Родила",
+    "age": 21,
+    "height": 172,
+    "weight": 65,
+    "nationality": "русская",
+    "educarion": " высшее",
+    "profession": "менеджер",
+    "bloodType": "III(B)",
+    "experience": "рожала"
+  },
+  {
+    "numer": 125,
+    "status": "Свободна",
+    "age": 28,
+    "height": 172,
+    "weight": 65,
+    "nationality": "русская",
+    "educarion": " высшее",
+    "profession": "менеджер",
+    "bloodType": "III(B)",
+    "experience": "рожала"
+  },
+  {
+    "numer": 126,
+    "status": "В программе",
+    "age": 28,
+    "height": 172,
+    "weight": 65,
+    "nationality": "русская",
+    "educarion": " высшее",
+    "profession": "менеджер",
+    "bloodType": "III(B)",
+    "experience": "рожала"
+  }
+
+]
